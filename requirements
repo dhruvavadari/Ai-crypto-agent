@@ -1,0 +1,8 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+scikit-learn
+streamlit  # Optional if using a UI
