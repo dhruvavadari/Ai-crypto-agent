@@ -27,4 +27,5 @@ Voice assistant integration
 
 Real-time mining API
 
+```bash
 pip install -r requirements.txt
